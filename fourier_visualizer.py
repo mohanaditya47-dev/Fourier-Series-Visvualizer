@@ -63,9 +63,5 @@ st.markdown("""
 
 Project Made By:
 - Aditya Mohan (202310101030002)
-- Deepanshu Goel (202310101110058)
-- Mohm. Ayan (202310101110019)
-- Abhishek VishwaKarma (202310101110028)
-- Adarsh Verma (202310101110052)
-- Priyanshu Verma (202310101110059)
+
 """)
